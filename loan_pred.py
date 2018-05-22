@@ -12,13 +12,13 @@ app = Flask(__name__)
 
 
 @app.route("/")
-def hello():
-    return "Hello World!"
+def test():
+    return "Flask Test"
 
 
 if __name__ == "__main__":
     app.run(debug=True)
-    #train()
+    train()
 
 
 
