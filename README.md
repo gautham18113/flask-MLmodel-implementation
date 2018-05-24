@@ -2,15 +2,15 @@
 
 STRUCTURE
 =========
-data\\
-  --test.csv\\n
-  --train.csv\\
-model\\
-  --model_v1.pk\\
-loan_pred.py
-preprocess.py
-server.py
-train.py
+data\\<br />
+  --test.csv\\<br />
+  --train.csv\\<br />
+model\\<br />
+  --model_v1.pk\\<br />
+loan_pred.py<br /><br />
+preprocess.py<br />
+server.py<br />
+train.py<br />
 
 FLASK PARAMETERS
 ================
