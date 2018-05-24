@@ -1,7 +1,7 @@
 # flask-MLmodel-implementation
 
-STRUCTURE
-=========
+STRUCTURE<br />
+=========<br />
 data\\<br />
   --test.csv\\<br />
   --train.csv\\<br />
@@ -13,7 +13,7 @@ server.py<br />
 train.py<br />
 
 FLASK PARAMETERS<br />
-================<br />
+==============<br />
 SERVER = Localhost<br />
 ENVIRONMENT = Development<br />
 DEBUG = True<br />
