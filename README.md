@@ -2,11 +2,11 @@
 
 STRUCTURE
 =========
-data\
-  --test.csv
-  --train.csv
-model\
-  --model_v1.pk
+data\\
+  --test.csv\\
+  --train.csv\\
+model\\
+  --model_v1.pk\\
 loan_pred.py
 preprocess.py
 server.py
