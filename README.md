@@ -12,16 +12,16 @@ preprocess.py<br />
 server.py<br />
 train.py<br />
 
-FLASK PARAMETERS
-================
-SERVER = Localhost
-ENVIRONMENT = Development
-DEBUG = True
+FLASK PARAMETERS<br />
+================<br />
+SERVER = Localhost<br />
+ENVIRONMENT = Development<br />
+DEBUG = True<br />
 
-MODULES
-=======
-loan_pred.py - Main module responsible for training the model and subsequently implement unit tests.
-train.py - Module to train the model and store it as a pickle file.
-preprocess.py - Module to perform data cleaning and custom transformations to be fed into the pipeline.
-server.py - Contains flask application get and post methods, where the data to be predicted is sent a JSON payload with request.post.
-          - The subsequent GET method feeds this data through the model and sends the predictions as response.
+MODULES<br />
+=======<br />
+loan_pred.py - Main module responsible for training the model and subsequently implement unit tests.<br />
+train.py - Module to train the model and store it as a pickle file.<br />
+preprocess.py - Module to perform data cleaning and custom transformations to be fed into the pipeline.<br />
+server.py - Contains flask application get and post methods, where the data to be predicted is sent a JSON payload with request.post.<br />
+      </t>    - The subsequent GET method feeds this data through the model and sends the predictions as response.<br />
