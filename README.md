@@ -1,6 +1,6 @@
 # flask-MLmodel-implementation
 
-Structure
+STRUCTURE
 =========
 data\
   --test.csv
